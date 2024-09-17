@@ -1,2 +1,85 @@
-# ENCS4210-Ethics-Presentation
-Ethics of Habit-Forming Apps
+# Ethics of Habit-Forming Apps
+
+This project explores the ethical concerns surrounding habit-forming apps, focusing on their impact on user autonomy, privacy, and mental well-being. The report examines popular applications such as Instagram and TikTok and discusses the ethical dilemmas involved in designing apps that encourage excessive usage.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Habit-Forming Apps](#habit-forming-apps)
+- [Understanding Internet Addiction](#understanding-internet-addiction)
+- [Theories of Addiction](#theories-of-addiction)
+- [Case Studies](#case-studies)
+  - [Instagram](#instagram)
+  - [TikTok](#tiktok)
+- [Business Models and Ethics](#business-models-and-ethics)
+- [Regulatory Perspectives](#regulatory-perspectives)
+- [Alternatives to Habit-Forming Features](#alternatives-to-habit-forming-features)
+- [Future Trends and Ethical Considerations](#future-trends-and-ethical-considerations)
+- [Conclusion](#conclusion)
+- [Ethical Framework](#ethical-framework)
+- [References](#references)
+
+## Introduction
+Habit-forming apps are designed to be convenient and to keep users engaged. However, these apps often employ psychological tricks that can negatively impact user autonomy, privacy, and mental health. This project discusses why this is a significant concern.
+
+## Habit-Forming Apps
+Habit-forming apps use features that trigger positive emotions and motivations, reinforcing their usage. This creates strong habits, sometimes leading to addictive behavior. Some experts argue that developers should be responsible for understanding and mitigating potential negative effects on users.
+
+## Understanding Internet Addiction
+Internet addiction isn't classified the same way as substance addiction, but excessive online activity can lead to problems with attention, mental health, and social interaction. While experts continue to debate whether internet addiction should be officially recognized, its negative impact on behavior and well-being is evident.
+
+## Theories of Addiction
+Several theories attempt to explain addiction:
+- **Genetic Predisposition**: Some people are more likely to develop addictive behaviors due to their genetic makeup.
+- **Biological and Psychological Mechanisms**: Addiction can result from the body's physiological response to stimuli or through associations with specific emotions and situations.
+- **Environmental Factors**: Societal and cultural influences also contribute to the development of addictive behaviors.
+
+These theories help explain the complex nature of addiction and its impact on app usage.
+
+## Case Studies
+
+### Instagram
+Instagram is one of the most popular habit-forming apps, providing users with features like likes, comments, and notifications. However, overuse of Instagram can lead to self-comparison, anxiety, and mental health issues. Excessive data collection has also raised privacy concerns.
+
+### TikTok
+TikTok is known for its addictive short-form videos and its potential privacy issues due to its Chinese ownership. While TikTok's content can be engaging, concerns about the appropriateness of videos for younger audiences and the app's data-sharing practices continue to grow.
+
+## Business Models and Ethics
+Many habit-forming apps rely on business models that prioritize user engagement and data collection. While these models can be lucrative, they often raise ethical concerns about user autonomy and privacy.
+
+## Regulatory Perspectives
+As governments and organizations become more aware of the potential harm caused by habit-forming apps, regulations around data privacy, user consent, and app usage are being developed. Ethical app development must consider these regulations to avoid legal and social repercussions.
+
+## Alternatives to Habit-Forming Features
+Developers can create ethical apps by incorporating features that promote user autonomy and well-being. For instance:
+- Allowing users to set their own usage limits and notification preferences.
+- Encouraging breaks and mindful usage.
+- Providing tools for self-improvement and learning rather than mindless scrolling.
+
+## Future Trends and Ethical Considerations
+The future of app development will include exciting advancements in virtual reality and AI. However, it is crucial to address ethical concerns like data privacy, environmental impact, and transparency about how AI influences user behavior. Future apps should aim to make users' lives easier while minimizing harmful effects.
+
+## Conclusion
+Ethical app design is about more than just creating functional or visually appealing applications. Developers must consider the potential impact on users' autonomy, privacy, and mental health. Ethical frameworks like **Act Utilitarianism** and **Kantian Ethics** provide a lens to evaluate the responsibility of app developers in ensuring their technology benefits society while minimizing harm.
+
+## Ethical Framework
+
+1. **Act Utilitarianism**: Evaluate whether the overall happiness generated by an app outweighs its potential negative effects, such as addiction and mental health issues.
+   
+2. **Kantian Ethics**: Criticizes the manipulation of users as tools for profit, suggesting that habit-forming features may violate users' autonomy.
+
+3. **Rule Utilitarianism**: Considers whether apps, in general, contribute to society's well-being and whether they should be allowed based on their overall impact.
+
+## References
+1. [Ethical concerns about habit-forming apps](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-018-0270-z)
+2. [Internet addiction and mental health](https://www.psychologytoday.com/us/basics/internet-addiction)
+3. [Theories of addiction](https://www.sparknotes.com/health/addiction/section2/)
+4. [Technology designed for addiction](https://www.psychologytoday.com/us/blog/boundless/201801/technology-designed-addiction)
+5. [Ethical issues in technology](https://connect.comptia.org/blog/ethical-issues-in-technology)
+6. [Science and addiction](https://www.sciencedirect.com/science/article/abs/pii/B9780123878175000388)
+
+## Contributors
+- [Mohammad AbuShams](https://github.com/MohammadAbuShams)
+- Ansam Hababeh
+
+## Thanks for Reading!
+Thank you for exploring the ethics of habit-forming apps and their impact on society.
